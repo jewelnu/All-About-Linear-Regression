@@ -1,0 +1,21 @@
+Linear Regression Step
+
+1. Import required library
+2. Import dataset using pandas
+3.check null or noise and  if null exist replace null with mean value
+4.drop unwanted column
+5.Scatter two column data , add label and title
+6.Assign x value and y value
+7.Assign LinearRegression() as a object
+8.Generate x mean & y mean
+9. train the model using fit function
+10. Generate Coefficient(m) and Intercept(c) value
+11. manually find predict y from mx+c 
+12. Use predict function for prediction
+13. add predicted_y to dataframe
+14.plot and scatter x and predicted y
+15.find loss and assign loss to dataframe
+16.add absoluate loss to dataframe
+17.find mse and mae
+18.find mean of absolute 
+19. find score
